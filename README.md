@@ -1,5 +1,9 @@
 # Ant Design + Tailwind CSS rem 单位适配方案
 
+> [仓库地址 antd-scale](https://github.com/Darcrandex/antd-scale)
+
+---
+
 > 在一些业务场景下，需要将页面的缩放大小根据视口进行动态调整。而若项目中同时使用 `tailwind` 和 `antd` 时，需要结合两者的使用情况
 
 以下为官方提供的 rem 方案
