@@ -1,6 +1,7 @@
 # Ant Design + Tailwind CSS rem 单位适配方案
 
-> [仓库地址 antd-scale](https://github.com/Darcrandex/antd-scale)
+- [仓库地址 antd-scale](https://github.com/Darcrandex/antd-scale)
+- [在线预览](https://stackblitz.com/~/github.com/Darcrandex/antd-scale)
 
 ---
 
