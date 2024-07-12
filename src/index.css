@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* https://github.com/tailwindlabs/tailwindcss/discussions/6974 */
+@media screen and (min-width: 768px) {
+  html {
+    @apply text-[300%];
+  }
+}
